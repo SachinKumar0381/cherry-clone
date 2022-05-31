@@ -1,0 +1,8 @@
+{
+    "suername" : "Sachin Kumar",
+    "Location" : {
+        "City" : "Patna",
+        "State" : "Bihar",
+        "Country" : "India"
+    }
+}

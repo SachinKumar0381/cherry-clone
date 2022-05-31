@@ -1,0 +1,62 @@
+[
+    {
+        "id" : "1",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMbbh04lsttJ0bVAl538JqmrSiVyGc5_XPYg&usqp=CAU",
+        "name" : "Chaitanya Parathas",
+        "category" : "North India, Punjabi, Chinese, Thalis Combo, Beverages",
+        "rating" : 4.3,
+        "time" : 33,
+        "price" : 200,
+        "offer" : "20% off | Use TRYNEW"
+    },
+    {
+        "id" : "2",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1DCHLgqCCq8km7fmEixTlbc2LGom2boIhQ&usqp=CAU",
+        "name" : "MH 12 Pav Bhaji",
+        "category" : "Snacks, Pizza, Beverages, Steet Food",
+        "rating" : 4,
+        "time" : 25,
+        "price" : 250,
+        "offer" : "10% off | Use TRYNEW"
+    },
+    {
+        "id" : "3",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0jXOik-gvFsija_ccvPSSpBSQpBDxBfYYQ&usqp=CAU",
+        "name" : "Lunch Box",
+        "category" : "North India, Punjabi, Chinese, Thalis Combo, Beverages",
+        "rating" : 4.2,
+        "time" : 31,
+        "price" : 200,
+        "offer" :"20% off | Use TRYNEW"
+    },
+    {
+        "id" : "4",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwoYiHMypOPB971F7Jmdqo8VdwaoZVQ_2-9A&usqp=CAU",
+        "name" : "The Hungry Hippe",
+        "category" : "Chinese, Italian, Thai",
+        "rating" : 2,
+        "time" : 38,
+        "price" : 500,
+        "offer" : "40% off | Use TRYNEW"
+    },
+    {
+        "id" : "5",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Rl6tTEU01Uxwc5JibdwzDWu-LsKquocRKQ&usqp=CAU",
+        "name" : "Ovenstory Pizzas",
+        "category" : "Pizzas",
+        "rating" : 4.1,
+        "time" : 45,
+        "price" : 600,
+        "offer" : "50% off | Use TRYNEW"
+    },
+    {
+        "id" : "6",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAUSsje1Ad0oCNECbb_2F7HGh_lCf4e3flQ&usqp=CAU",
+        "name" : "Starbucks Coffee",
+        "category" : "Beverages, Ice Cream",
+        "rating" : 4.3,
+        "time" : 38,
+        "price" : 400,
+        "offer" : "40% off | Use TRYNEW"
+    }
+]
